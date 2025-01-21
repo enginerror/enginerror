@@ -1,3 +1,5 @@
+<p align="center"><img src="./image/header.svg" alt="Cover Image" /></p>
+
 <h1>Hi, I'm Ayaan Murshed Khan</h1>
 <p>A passionate Full Stack Developer</p>
 <h3>Languages and Tools</h3>
