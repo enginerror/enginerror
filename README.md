@@ -70,6 +70,6 @@ I’m a full-stack developer passionate about building real-world, meaningful pr
 
 ### Stats --
 
-![Ayaan GitHub Stats](https://github-readme-stats.vercel.app/api?username=enginerror&show_icons=true&theme=dark)
+![Ayaan GitHub Stats](https://github-readme-stats.vercel.app/api?username=enginerror&show_icons=true&theme=tokyonight)
 
 [portfolio]: https://enginerror.vercel.app
