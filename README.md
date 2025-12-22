@@ -2,7 +2,8 @@
 
 **`Full Stack Developer`**
 
-I’m a full-stack developer passionate about building real-world, meaningful projects. I enjoy turning ideas into clean, scalable solutions and constantly expanding my skills. With a strong interest in AI, I explore new technologies to create smarter, future-ready applications that blend innovation, functionality, and great user experiences. [ [Portfolio][portfolio] ]
+I’m a full-stack developer passionate about building real-world, meaningful projects. I enjoy turning ideas into clean, scalable solutions and constantly expanding my skills. With a strong interest in AI, I explore new technologies to create smarter, future-ready applications that blend innovation, functionality, and great user experiences.
+<!--[ [Portfolio][portfolio] ]-->
 
 <p><a target="_blank" href="https://twitter.com/enginerrorX" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/ayaan-murshed-khan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
