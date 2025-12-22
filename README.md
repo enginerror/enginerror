@@ -77,4 +77,4 @@ If you enjoy my work, consider buying me a coffee or tea ☕
 
 <img src="https://github-readme-stats.vercel.app/api?username=enginerror&show_icons=true&theme=gotham" alt="enginerror" />
 
-[portfolio]: https://enginerror.vercel.app
+[portfolio]: 
