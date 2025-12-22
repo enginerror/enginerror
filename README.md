@@ -69,13 +69,11 @@ I’m a full-stack developer passionate about building real-world, meaningful pr
 ---
 
 -->
-
+<!--
 If you enjoy my work, consider buying me a coffee or tea ☕
 
 <a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+-->
 ### Stats --
 
 <img src="https://github-readme-stats.vercel.app/api?username=enginerror&show_icons=true&theme=gotham" alt="enginerror" />
-
-[portfolio]: 
